@@ -1,6 +1,3 @@
-Absolutely. I went through the available full-code sections and pulled the README details from the actual implementation rather than guessing. The important mechanics—8 services, 11 dependency links, deterministic cascade propagation, weighted health, resilience scoring, scenarios, What-If prediction, recovery, and demo mode—are all present in the code.  
-
-Here is a **complete `README.md`** you can put directly in your GitHub repository. I left the team names as placeholders because they aren't in the code.
 
 # 🛡️ CityGuard — Urban Infrastructure Cascade Simulator
 
